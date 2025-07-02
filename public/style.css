@@ -1,6 +1,0 @@
-body { font-family: system-ui, sans-serif; display: flex; justify-content: center; margin: 0; padding: 2rem; }
-main { max-width: 400px; text-align: center; }
-#dropZone { display: block; border: 2px dashed #aaa; padding: 2rem; margin-bottom: 1rem; cursor: pointer; }
-#dropZone.hover { border-color: black; background: #f7f7f7; }
-button { padding: .6rem 1.2rem; font-size: 1rem; }
-#status { margin-top: 1rem; min-height: 1.5rem; }
